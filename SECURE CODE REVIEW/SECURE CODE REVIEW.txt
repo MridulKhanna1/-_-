@@ -1,0 +1,36 @@
+FOR A SECURE CODE REVIEW WE WILL USE 
+AN OPEN SOURCE TOOL NAMED "BANDIT"
+TO INSTALL BANDIT IN YOUR SYSTEM 
+GO TO CMD
+WRITE THIS COMMAND
+PIP INSTALL BANDIT
+
+
+
+
+
+
+REVIEW OF THE VULNERABLE CODE:
+A Flask app appears to be run with debug=True, 
+which exposes the Werkzeug debugger 
+and allows the execution of arbitrary code.
+
+
+
+
+
+
+
+
+
+
+REVIEW OF THE FIXED CODE:
+Test results:
+        No issues identified.
+
+NOW CODE IS FIXED
+
+
+
+
+THANKYOU
