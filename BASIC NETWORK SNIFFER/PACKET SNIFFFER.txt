@@ -1,0 +1,21 @@
+FOR PACKET SNIFFING WE ARE GOING TO USE 
+PYTHON SCRIPT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WE WILL USE AN HTTP WEBSITE 
+FOR PACKET SNIFFING
+WEBSITE URL:
+http://testhtml5.vulnweb.com
